@@ -1,0 +1,9 @@
+COMO OBTENER EL APK (sin instalar Android Studio)
+1. Crea una cuenta gratis en github.com y un repositorio nuevo (privado esta bien).
+2. Sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github).
+3. Ve a la pestana "Actions" > "Build APK" > espera ~3-5 min.
+4. Entra a la ejecucion terminada y descarga "IPTVPlayerTV-apk" (zip con app-debug.apk).
+5. Pasa el APK al TV (USB o app tipo "Send Files to TV") e instalalo.
+   Debes activar "Fuentes desconocidas" en los ajustes del TV.
+
+ALTERNATIVA: abrir esta carpeta en Android Studio y usar Build > Build APK(s).

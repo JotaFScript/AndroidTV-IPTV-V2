@@ -1,0 +1,12 @@
+IPTV Player v2.0
+
+Novedades
+ 1. Varias listas a la vez: cada lista es una pestana en el panel de canales.
+ 2. Favoritos: corazon y estrella en cada canal (ambos marcan el mismo favorito).
+ 3. Logo e icono nuevos.
+
+COMO ACTUALIZAR (GitHub)
+ - Sube el contenido de esta carpeta a tu repositorio (se sobrescriben los archivos).
+ - NO toques .github/workflows: el workflow que ya funciona no cambia.
+ - Al subir, Actions compila solo; descarga el APK en Artifacts.
+ - Instala el nuevo APK sobre el anterior: conserva tu lista y favoritos.
